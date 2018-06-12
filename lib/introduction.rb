@@ -1,5 +1,4 @@
-def hello_x_times(word, x)
-  x.times do
-    puts word
+def introduction(name)
+    puts "Hi, my name is " name ".\n"
   end
 end
