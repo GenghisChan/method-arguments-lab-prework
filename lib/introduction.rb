@@ -1,5 +1,5 @@
 def hello_x_times(word, x)
-  x.times do 
+  x.times do
     puts word
   end
 end
